@@ -1,0 +1,2 @@
+py -m pip install
+py -m spacy install
